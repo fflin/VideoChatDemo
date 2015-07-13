@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="返回"
+                android:id="@+id/btn_back"/>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="切换"
+                android:id="@+id/btn_trans"
+                android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <!--本地视频-->
+    <SurfaceView android:layout_width="320dp"
+                 android:layout_height="240dp"
+                 android:id="@+id/sv_local"/>
+    <!--远程视频-->
+    <SurfaceView android:layout_width="320dp"
+                 android:layout_height="240dp"
+                 android:id="@+id/sv_remote"/>
+</LinearLayout>
+
