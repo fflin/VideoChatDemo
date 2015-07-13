@@ -46,8 +46,8 @@
       <file leaf-file-name="MyActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/videochat/demo/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48567334">
-              <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.256447">
+              <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -179,6 +179,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -490,12 +494,12 @@
       <workItem from="1436779274365" duration="5675000" />
       <workItem from="1436786822937" duration="9000" />
       <workItem from="1436786836630" duration="97000" />
-      <workItem from="1436787048368" duration="417000" />
+      <workItem from="1436787048368" duration="492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15060000" />
+    <option name="totallyTimeSpent" value="15135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-90" width="1920" height="1177" extended-state="6" />
@@ -709,8 +713,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/videochat/demo/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48567334">
-          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.256447">
+          <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
           <folding />
         </state>
       </provider>
